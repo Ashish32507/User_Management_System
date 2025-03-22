@@ -2,7 +2,7 @@
 
  Steps To Run This Project
   1. node js is required in your system
-  2. download npm i express mongoose dotenv bcrypt jsonwebtoken
+  2. download npm i express mongoose dotenv bcrypt jsonwebtoken cookie-parser
   3. run this project using nodemon index.js or node index.js
 
   4. in this project i have implemented this
