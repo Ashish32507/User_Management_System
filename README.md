@@ -6,9 +6,11 @@
   3. run this project using nodemon index.js or node index.js
 
   4. in this project i have implemented this
+     
       User Registration
                Endpoint: /api/register
                Fields: name, email, password
+     
      User Login
                Endpoint: POST /api/login
                Fields: email, password
@@ -17,6 +19,7 @@
                Endpoint: GET /api/profile
                Requires JWT authentication.
                Return user details (except password).
+       
    Update User Profile (Authenticated Route)
                Endpoint: PUT /api/profile
                Allows updating name and email.
